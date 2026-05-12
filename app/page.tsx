@@ -93,7 +93,7 @@ export default function Home() {
           <div className="flex flex-col justify-end h-full">
 
             <h2 className="text-5xl font-black text-yellow-400 leading-none">
-              {salesCount.toLocaleString()}개+
+              {salesCount.toLocaleString()}개
             </h2>
 
             <p className="mt-6 text-gray-300 text-xl">
